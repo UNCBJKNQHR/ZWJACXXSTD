@@ -1,4 +1,4 @@
-### Anonymous GitHub repository for MemTorch: A Simulation Framework for Deep Memristive Cross-bar Architectures (ISCAS 2020 Paper ID: XXXX)
+### Anonymous GitHub repository for MemTorch: A Simulation Framework for Deep Memristive Cross-bar Architectures (ISCAS 2020 Paper ID: 2540)
 Our C++/CUDA PyTorch quantization extension is used within MemTorch to model the finite number of conductance states for non-ideal memristive devices. To install from source (requires the torch and numpy packages and CUDA Toolkit 10.1) execute the following commands within a terminal:
 
 ```
